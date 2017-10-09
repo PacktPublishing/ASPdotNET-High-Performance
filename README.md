@@ -1,13 +1,7 @@
 # ASP.NET Core 2 High Performance - Second Edition
 This is the code repository for [ASP.NET Core 2 High Performance - Second Edition](https://www.packtpub.com/application-development/aspnet-core-2-high-performance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788399760), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-The ASP.NET Core 2 framework is used to develop high-performance, cross-platform web applications, and is built on .NET Core 2, allowing the use of more .NET Framework APIs.
-
 This book will address high-level performance improvement techniques. We start by locating and measuring problems, along with solving some of the most common ones. Next, we deploy an application to a production network and tolerate latency. We then learn to optimize C# code and choose the best data structures for the job. We also cover parallel programming and distributed architectures.
-
-By the end of this book, you will be fixing latency issues and optimizing performance problems, but you will also know how this affects the complexity of the application. As a parting note, you will explore a few highly advanced techniques for further optimization.
-
-This book assumes that the reader can already build a web application, and so does not cover this. However, it does show how to get started with ASP.NET Core 2 on Windows, Mac, Linux, and Docker.
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
