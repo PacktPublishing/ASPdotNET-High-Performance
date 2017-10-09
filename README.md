@@ -12,7 +12,7 @@ This book assumes that the reader can already build a web application, and so do
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-There are no code files for chapters 1, 2, 3, 6, 9, and 12 do not have any code files.
+There are no code files for chapters 1, 2, 3, 6, 9, and 12.
 
 The code will look like the following:
 ```
